@@ -1,6 +1,7 @@
 loadstring(game:HttpGet("https://pastefy.app/QdnGIUlI/raw",true))()
-loadstring(game:HttpGet("https://pastefy.app/prQpDJA6/raw",true))()
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Library =
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("xtentacion_fan on tiktok", "DarkTheme")
 local Tab = Window:NewTab("Universal scripts")
 local Section = Tab:NewSection("universal")
